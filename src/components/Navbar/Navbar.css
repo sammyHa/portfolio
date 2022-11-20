@@ -1,0 +1,89 @@
+.NavbarItems {
+    position: fixed;
+    top: 300px;
+    right: 20px;
+    bottom: 300px;
+    width: 70px;
+    background: linear-gradient(90deg, rgba(110, 94, 254, 0.10) 100%, rgba(73, 63, 252, 0.3)10%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.2rem;
+    flex-direction: column;
+    border-radius: 150px;
+    border: 1px solid rgba(110, 94, 254, 1);
+    padding: 50px 0px;
+}
+.home {
+    display: flex;
+    background-color: rgba(110, 94, 254, 0.0);
+    padding: 10px;
+    border-radius: 8px;
+}
+.home:hover{
+    display: flex;
+    background-color: rgba(92, 78, 218, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.home img {
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+}
+
+
+.project {
+    display: flex;
+    background-color: rgba(110, 94, 254, 0.0);
+    padding: 10px;
+    border-radius: 8px;
+}
+.project:hover{
+    display: flex;
+    background-color: rgba(92, 78, 218, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+}
+.project img {
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    fill: white;
+}
+
+
+.contact {
+    display: flex;
+    background-color: rgba(110, 94, 254, 0.0);
+    padding: 10px;
+    border-radius: 8px;
+}
+.contact:hover{
+    display: flex;
+    background-color: rgba(92, 78, 218, 0.9);
+    padding: 10px;
+    border-radius: 8px;
+}
+.contact img {
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    fill: white;
+}
+
+
+@media (max-width: 630px) {
+    .NavbarItems {
+        position: fixed;
+        right: 10px;   
+        width: 45px;      
+        justify-content: space-around;
+        flex-direction: column;
+        border-radius: 150px;
+        border: 1px solid rgba(110, 94, 254, 1);
+    }
+    
+   
+}

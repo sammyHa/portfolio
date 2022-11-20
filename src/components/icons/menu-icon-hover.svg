@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1666 -46)">
+    <path id="Ellipse_10" data-name="Ellipse 10" d="M9,1.5A7.5,7.5,0,1,0,16.5,9,7.508,7.508,0,0,0,9,1.5M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" transform="translate(1666 46)" fill="#707070"/>
+    <path id="Ellipse_10-2" data-name="Ellipse 10" d="M9,1.5A7.5,7.5,0,1,0,16.5,9,7.508,7.508,0,0,0,9,1.5M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" transform="translate(1710 46)" fill="#707070"/>
+    <path id="Ellipse_10-3" data-name="Ellipse 10" d="M9,1.5A7.5,7.5,0,1,0,16.5,9,7.508,7.508,0,0,0,9,1.5M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" transform="translate(1666 90)" fill="#707070"/>
+    <path id="Ellipse_10-4" data-name="Ellipse 10" d="M9,1.5A7.5,7.5,0,1,0,16.5,9,7.508,7.508,0,0,0,9,1.5M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" transform="translate(1710 90)" fill="#707070"/>
+    <path id="Rectangle_5" data-name="Rectangle 5" d="M9,1A8.009,8.009,0,0,0,1,9V53a8,8,0,0,0,16,0V9A8.009,8.009,0,0,0,9,1M9,0a9,9,0,0,1,9,9V53A9,9,0,0,1,0,53V9A9,9,0,0,1,9,0Z" transform="translate(1688 46)" fill="#707070"/>
+    <path id="Rectangle_6" data-name="Rectangle 6" d="M9,1A8.009,8.009,0,0,0,1,9V53a8,8,0,0,0,16,0V9A8.009,8.009,0,0,0,9,1M9,0a9,9,0,0,1,9,9V53A9,9,0,0,1,0,53V9A9,9,0,0,1,9,0Z" transform="translate(1666 86) rotate(-90)" fill="#707070"/>
+  </g>
+</svg>
